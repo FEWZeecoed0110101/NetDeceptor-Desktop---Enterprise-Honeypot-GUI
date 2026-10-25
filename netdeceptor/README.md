@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo.png" alt="NetDeceptor Desktop Logo" width="180">
+</p>
+
+<h1 align="center">NetDeceptor Desktop</h1>
+<p align="center"><b>Enterprise Honeypot & Threat Inspector</b></p>
 # NetDeceptor
 
 NetDeceptor can run either as a desktop dashboard or as a foreground headless

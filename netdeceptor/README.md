@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="NetDeceptor Desktop Logo" width="180">
+  <img src="PNG/logo.jpg" alt="NetDeceptor Desktop Logo" width="180">
 </p>
 
 <h1 align="center">NetDeceptor Desktop</h1>

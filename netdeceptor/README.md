@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="NetDeceptor Desktop Logo" width="180">
+  <img src="logo.png" alt="NetDeceptor Desktop Logo" width="180">
 </p>
 
 <h1 align="center">NetDeceptor Desktop</h1>
@@ -58,7 +58,7 @@ continues to launch the desktop application.
 
 ### 1. Onboarding Wizard (วิซาร์ดแนะนำการใช้งานเบื้องต้น)
 <p align="center">
-  <img src="assets/wizard.png" alt="NetDeceptor Wizard" width="600">
+  <img src="wizard.png" alt="NetDeceptor Wizard" width="600">
 </p>
 
 - ปรากฏขึ้นมาอัตโนมัติเมื่อเริ่มใช้งานโปรแกรมครั้งแรก เพื่อแนะนำแนวคิดของฮันนีพอต (Honeypot) ใน 5 ขั้นตอนสั้นๆ

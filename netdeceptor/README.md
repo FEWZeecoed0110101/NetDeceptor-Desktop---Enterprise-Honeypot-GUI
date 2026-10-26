@@ -58,7 +58,7 @@ continues to launch the desktop application.
 
 ### 1. Onboarding Wizard (วิซาร์ดแนะนำการใช้งานเบื้องต้น)
 <p align="center">
-  <img src="wizard.png" alt="NetDeceptor Wizard" width="600">
+  <img src="PNG/wizard.png" alt="NetDeceptor Wizard" width="600">
 </p>
 
 - ปรากฏขึ้นมาอัตโนมัติเมื่อเริ่มใช้งานโปรแกรมครั้งแรก เพื่อแนะนำแนวคิดของฮันนีพอต (Honeypot) ใน 5 ขั้นตอนสั้นๆ
@@ -98,7 +98,7 @@ continues to launch the desktop application.
 ### 2. หน้าแดชบอร์ดหลัก (Dashboard)
 
 <p align="center">
-  <img src="Dashboard.png" alt="NetDeceptor Dashboard" width="600">
+  <img src="PNG/Dashboard.png" alt="NetDeceptor Dashboard" width="600">
 </p>
 
 หน้าแดชบอร์ดหลักถูกออกแบบมาในสไตล์ระบบเฝ้าระวังภัยคุกคาม (SOC Dashboard) เพื่อให้ผู้ดูแลระบบสามารถมอนิเตอร์ความปลอดภัยของเครือข่ายได้แบบเรียลไทม์ โดยประกอบด้วยส่วนประกอบสำคัญดังนี้:
@@ -128,7 +128,7 @@ continues to launch the desktop application.
   ### 3. Trap Config (หน้าตั้งค่าพอร์ตกับดัก)
 
 <p align="center">
-  <img src="Config.png" alt="NetDeceptor Trap Config" width="600">
+  <img src="PNG/Config.png" alt="NetDeceptor Trap Config" width="600">
 </p>
 
 - **Dynamic Port Management:** อนุญาตให้ผู้ใช้เปิด/ปิดพอร์ตกับดัก (เช่น FTP, SSH, HTTP, SMB, RDP) ได้แบบเรียลไทม์
@@ -151,7 +151,7 @@ continues to launch the desktop application.
 
 ### 5. Defense (หน้าจัดการระบบป้องกันเชิงรุกและไฟร์วอลล์)
 <p align="center">
-  <img src="defense.png" alt="NetDeceptor Defense Settings" width="600">
+  <img src="PNG/defense.png" alt="NetDeceptor Defense Settings" width="600">
 </p>
 
 - **Active Defense & Firewall Integration:** ควบคุมการบล็อก IP อันตรายที่ไฟร์วอลล์ของระบบปฏิบัติการอัตโนมัติ พร้อมแสดงสถานะสิทธิ์ผู้ดูแลระบบ (Administrator)[cite: 9]
@@ -166,7 +166,7 @@ continues to launch the desktop application.
 
 ### 6. Reports (หน้ารายงานและการตรวจสอบความปลอดภัย)
 <p align="center">
-  <img src="re.png" alt="NetDeceptor Reports" width="600">
+  <img src="PNG/re.png" alt="NetDeceptor Reports" width="600">
 </p>
 
 - **Security Audit Summary:** สรุปสถิติเหตุการณ์ภัยคุกคามทั้งหมดจากฐานข้อมูล SQLite ทั้งจำนวนครั้ง, จำนวน IP ที่ไม่ซ้ำ และเหตุการณ์ความรุนแรงสูง[cite: 10]
@@ -194,7 +194,7 @@ continues to launch the desktop application.
 
 ### 8. Help (หน้าช่วยเหลือ สถาปัตยกรรม และตรวจสอบระบบ)
 <p align="center">
-  <img src="123123.png" alt="NetDeceptor Help and Architecture" width="600">
+  <img src="PNG/123123.png" alt="NetDeceptor Help and Architecture" width="600">
 </p>
 
 - **Quick Start Wizard:** แนะนำ 5 ขั้นตอนสั้นๆ สำหรับผู้เริ่มต้นใช้งานโปรแกรม เพื่อตั้งค่ากับดัก, สร้างโทเคนแจ้งเตือน และเปิดใช้งานระบบป้องกันได้อย่างรวดเร็ว

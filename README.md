@@ -220,5 +220,5 @@ Professional Documentation: มีเอกสารประกอบโปร�
 ### หลักการทำงานของโปรแกรม netdecepto 
 
 <p align="center">
-  <img src="PNG/G.png" alt="NetDeceptor Dashboard" width="600">
+  <img src="PNG/IMG_6172.PNG" alt="NetDeceptor Dashboard" width="600">
 </p>
